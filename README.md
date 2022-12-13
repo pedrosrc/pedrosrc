@@ -1,5 +1,5 @@
 # 👨🏽‍💻  Olá, seja bem vindo ao meu perfil do GitHub.
-<img src="code.gif" width="280" align="right">
+<img src="code.gif" width="250" align="right">
 Atualmente sou um desenvolvedor front-end e estou à procura de uma vaga de estágio, 
  neste perfil você pode conferir todos meus projetos e codígos.
  
