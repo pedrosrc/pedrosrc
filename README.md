@@ -1,7 +1,5 @@
-# 👨🏽‍💻  Olá, seja bem vindo ao meu perfil do GitHub.
-<img src="code.gif" width="250" align="right">
-Atualmente sou um desenvolvedor front-end e estou à procura de uma vaga de estágio, 
- neste perfil você pode conferir todos meus projetos e codígos.
+# 🟢 Olá, seja bem vindo ao meu perfil do GitHub.
+Atualmente sou um desenvolvedor front-end e neste perfil você pode conferir todos meus projetos e codígos.
  
  
  
@@ -24,7 +22,7 @@ Atualmente sou um desenvolvedor front-end e estou à procura de uma vaga de est�
 ---
 
 
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apenasopedro&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=apenasopedro&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<div display="inline-flex" >
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=apenasopedro&show_icons=true&theme=chartreuse-dark"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apenasopedro&layout=compact&theme=chartreuse-dark"/>
 </div>
