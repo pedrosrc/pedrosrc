@@ -23,6 +23,6 @@ Atualmente sou um desenvolvedor front-end e neste perfil você pode conferir tod
 
 
 <div display="inline-flex" >
-<img height = "100em" src="https://github-readme-stats.vercel.app/api?username=apenasopedro&show_icons=true&theme=chartreuse-dark"/>
-<img height = "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apenasopedro&layout=compact&theme=chartreuse-dark"/>
+<img height = "170em" src="https://github-readme-stats.vercel.app/api?username=apenasopedro&show_icons=true&theme=chartreuse-dark"/>
+<img height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apenasopedro&layout=compact&theme=chartreuse-dark"/>
 </div>
