@@ -1,12 +1,12 @@
-# 🟢 Olá, seja bem vindo ao meu perfil do GitHub.
-Atualmente sou um desenvolvedor front-end e neste perfil você pode conferir todos meus projetos e codígos.
+# 🟢 Hi, Welcome my GitHub.
+I'm Student of System Analysis and Development and Front-end Developer.
  
  
  
- -  Estudante de ADS na Estácio de Sá
-- Aprendendo Inglês e React.Js
+ -  Student Estácio de Sá
+ - Learning English and React.Js
  
- Você pode conferir meu Linkedin e meu currículo pelo Figma:
+ My LinkedIn and CV at Figma:
  
  <div id="badges">
   <a href = "https://www.linkedin.com/in/pedroleodev" target="_blank">
