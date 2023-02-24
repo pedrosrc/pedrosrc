@@ -23,6 +23,6 @@ I'm Student of System Analysis and Development and Front-end Developer.
 
 
 <div display="inline-flex" >
-<img height = "170em" src="https://github-readme-stats.vercel.app/api?username=apenasopedro&show_icons=true&theme=chartreuse-dark"/>
-<img height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apenasopedro&layout=compact&theme=chartreuse-dark"/>
+<img height = "170em" src="https://github-readme-stats.vercel.app/api?username=pedrosrc&show_icons=true&theme=chartreuse-dark"/>
+<img height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosrc&layout=compact&theme=chartreuse-dark"/>
 </div>
