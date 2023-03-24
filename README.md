@@ -5,7 +5,7 @@ Front-end Developer and Student of System Analysis and Development.<br></br>
  <ul>
  <li>Student Estácio de Sá.</li>
  <li>Learning English</li>
- <li>JavaScript and React.Js</li>
+ <li>JavaScript, TypeScript and React.Js</li>
 </ul>
 
  <h3/>My LinkedIn and CV at Figma:</h3>
