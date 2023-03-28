@@ -19,7 +19,14 @@ Front-end Developer and Student of System Analysis and Development.<br></br>
   </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosrc&layout=compact&theme=dark)](https://github.com/pedrosrc/github-readme-stats)
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=pedrosrc&theme=chartreuse-dark&show_icons=true"  width="350">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosrc&layout=compact&theme=chartreuse-dark" width="315">
+</div>
+
+
+
+
 
 
 
