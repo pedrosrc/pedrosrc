@@ -19,6 +19,7 @@ Front-end Developer and Student of System Analysis and Development.<br></br>
   </a>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosrc&layout=compact&theme=dark)](https://github.com/pedrosrc/github-readme-stats)
 
 
 
