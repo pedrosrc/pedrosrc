@@ -2,9 +2,13 @@
 
 <p align="center"> Front-End Developer and Student of System Analysis and Development.</p>
 
- <ul >
- <li>💻Student at Estácio de Sá.</li>
- <li> 🗣Learning English</li>
+ <ul align="center" >
+  <p>
+   💻Student at Estácio de Sá.
+  </p>
+  <p>
+   🗣Learning English
+  </p>
 </ul>
 
 <div align="center">
