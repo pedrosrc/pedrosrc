@@ -1,6 +1,5 @@
-<h2 align="center"> 🟢 Hi, i'm Pedro Leonardo.</h2>
-
-<p align="center"> Front-End Developer and Student of System Analysis and Development.</p>
+<h1 align="center"> 🟢 Hi, i'm Pedro Leonardo.</h1>
+<h2 align="center">Front-End Developer and Student of System Analysis and Development.</h2>
 
  <div align="center" >
   <p>
