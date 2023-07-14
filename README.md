@@ -2,14 +2,14 @@
 
 <p align="center"> Front-End Developer and Student of System Analysis and Development.</p>
 
- <ul align="center" >
+ <div align="center" >
   <p>
-   💻Student at Estácio de Sá.
+   💻Always looking for knowledge
   </p>
   <p>
    🗣Learning English
   </p>
-</ul>
+</div>
 
 <div align="center">
      <h3>Technologies</h3>
@@ -22,7 +22,7 @@
      <img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" width="24">
 </div>
 
-
+</br>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=pedrosrc&theme=chartreuse-dark&show_icons=true"  width="350">
