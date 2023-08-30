@@ -12,10 +12,8 @@
      <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg"  width="24">
      <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" width="24">
      <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" width="24">
-     <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="24">
-     <img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" width="24">
+     <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs.svg" width="24">
      <img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" width="24">
-     <img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" width="24">
    </li>
   </ul>
  
