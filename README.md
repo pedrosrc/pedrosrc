@@ -9,11 +9,7 @@
     💻Always looking for knowledge
     </li>
    <li>
-     <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg"  width="24">
-     <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" width="24">
-     <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" width="24">
-     <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs.svg" width="24">
-     <img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" width="24">
+    JavaScript, TypeScript, React.Js e Node.Js
    </li>
   </ul>
  
