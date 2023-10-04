@@ -1,5 +1,5 @@
 <h1> 🟢 Hi, i'm Pedro Leonardo.</h1>
-<h2>Front-End Developer</h2>
+<h2>Web Developer</h2>
 
   <ul>
    <li>
@@ -9,7 +9,7 @@
     💻Always looking for knowledge
     </li>
    <li>
-    JavaScript, TypeScript, React.Js e Node.Js
+    JavaScript, TypeScript, React.Js and Node.Js
    </li>
   </ul>
  
