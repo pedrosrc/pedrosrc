@@ -1,5 +1,5 @@
-<h1> 🟢 Hi, i'm Pedro Leonardo.</h1>
-<h2>Web Developer</h2>
+<h1> :wave: Hi, i'm Pedro Leonardo.</h1>
+<h2>        Web Developer</h2>
 
   <ul>
    <li>
