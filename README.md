@@ -18,7 +18,7 @@
 <p>I have knowledge in: </p>
 <div align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nextjs,react,vue,figma,py
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nextjs,react,vue,figma
 )](https://skillicons.dev)
 
   </div>
