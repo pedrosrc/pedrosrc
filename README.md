@@ -1,33 +1,34 @@
-<h1> Hi, I'm Pedro Leonardo! :wave:</h1>
+# Hi, i'm Pedro Leonardo 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<ul>
-   <li>
-    Student of System Analysis and Development at Estácio.
-   </li>
-    <li>
-    💻Always looking for knowledge
-    </li>
-  </ul>
-<p>You can contact me by email:<a href="mailto:pedroleon.pc@outlook.com"> pedroleon.pc@outlook.com</a>.</p> 
-<br>
+<p align="left"> 
+  I am a curious developer who loves learning new things every day.
+</p>
 
-<p>I have knowledge in: </p>
-<div align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nextjs,react,vue,figma
-)](https://skillicons.dev)
 
-  </div>
-  
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=pedrosrc&theme=chartreuse-dark&show_icons=true"  width="395">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosrc&layout=compact&theme=chartreuse-dark" width="300">
+<p align="left">
+  💻 Student of System Analysis and Development at Estácio.
+</p>
+<p align="left">
+  👨‍💻  I’m currently learning Ruby on Rails
+</p>
+<p align="left">
+  💬 Send me a message: <a href="pedroleon.pc@outlook.com">pedroleon.pc@outlook.com</a>
+</p>
+
+<div style="text-align: center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
-
-
-
-
-
 
 
 
