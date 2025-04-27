@@ -11,8 +11,7 @@
   💻 Student of System Analysis and Development at Estácio.
 </p>
 <p align="left">
-  👨‍💻  I’m currently learning Ruby on Rails
-</p>
+  👨‍💻  I’m currently working in news projects</p>
 <p align="left">
   💬 Send me a message: <a href="pedroleon.pc@outlook.com">pedroleon.pc@outlook.com</a>
 </p>
