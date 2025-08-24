@@ -8,7 +8,7 @@
 
 
 <p align="left">
-  💻 Student of System Analysis and Development at Estácio.
+  💻 Graduate of System Analysis and Development at Estácio.
 </p>
 <p align="left">
   👨‍💻  I’m currently working in news projects</p>
